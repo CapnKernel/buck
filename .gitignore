@@ -1,0 +1,4 @@
+/buck-backups/*
+/fp-info-cache
+/buck.kicad_prl
+/output/*.zip
